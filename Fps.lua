@@ -49,7 +49,7 @@ OptimalkanGrafik()
 BypassChat("Script Loaded")
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "FPS Booster";
-    Text = "Graphics Optimized";
+    Title = "Fps Boomber";
+    Text = "Youtube : @gxgrafix";
     Duration = 5;
 })
